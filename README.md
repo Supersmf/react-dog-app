@@ -1,4 +1,4 @@
-## <a href="https://supersmf.github.io/">Dog React Application</a>
+## <a href="https://Supersmf.github.io/react-dog-app/">Dog React Application</a>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
